@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[CreateContact done]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-06-07T18:08:28 IST" name="Default suite" finished-at="2024-06-07T18:08:43 IST" duration-ms="14757">
+    <groups>
+      <group name="Smoke">
+        <method signature="CreateContactTest.CreateContact()[pri:0, instance:com.comcast.crm.contacttest.TestNG.CreateContactTest@35e2d654]" name="CreateContact" class="com.comcast.crm.contacttest.TestNG.CreateContactTest"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2024-06-07T18:08:28 IST" name="Default test" finished-at="2024-06-07T18:08:43 IST" duration-ms="14757">
+      <class name="com.comcast.crm.contacttest.TestNG.CreateContactTest">
+        <test-method is-config="true" signature="BS()[pri:0, instance:com.comcast.crm.contacttest.TestNG.CreateContactTest@35e2d654]" started-at="2024-06-07T18:08:28 IST" name="BS" finished-at="2024-06-07T18:08:28 IST" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:com.comcast.crm.contacttest.TestNG.CreateContactTest@35e2d654]" started-at="2024-06-07T18:08:28 IST" name="BC" finished-at="2024-06-07T18:08:30 IST" duration-ms="2384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:com.comcast.crm.contacttest.TestNG.CreateContactTest@35e2d654]" started-at="2024-06-07T18:08:30 IST" name="BeforeMethod" finished-at="2024-06-07T18:08:33 IST" duration-ms="2762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="CreateContact()[pri:0, instance:com.comcast.crm.contacttest.TestNG.CreateContactTest@35e2d654]" started-at="2024-06-07T18:08:33 IST" name="CreateContact" finished-at="2024-06-07T18:08:41 IST" duration-ms="7916" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[CreateContact done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateContact -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:com.comcast.crm.contacttest.TestNG.CreateContactTest@35e2d654]" started-at="2024-06-07T18:08:41 IST" name="AfterMethod" finished-at="2024-06-07T18:08:42 IST" duration-ms="1363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:com.comcast.crm.contacttest.TestNG.CreateContactTest@35e2d654]" started-at="2024-06-07T18:08:42 IST" name="AC" finished-at="2024-06-07T18:08:43 IST" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:com.comcast.crm.contacttest.TestNG.CreateContactTest@35e2d654]" started-at="2024-06-07T18:08:43 IST" name="AS" finished-at="2024-06-07T18:08:43 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- com.comcast.crm.contacttest.TestNG.CreateContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
